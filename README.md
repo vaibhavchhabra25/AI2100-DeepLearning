@@ -1,1 +1,1 @@
-# AI2101-DeepLearning
+## Deep Learning project on Automated Lip Reading
